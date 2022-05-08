@@ -21,7 +21,6 @@ export function ScreenshotButton({ screenshot, onScreenshotTook }: ScreenshotBut
   }
 
   if(screenshot) {
-    console.log('screenshot', screenshot)
     return (
       <button
         type="button"
