@@ -1,0 +1,23 @@
+{
+  "nlw-component": {
+    "prefix": "nlw-component",
+    "body": [
+      "// REACT",
+      "",
+      "// ASSETS",
+      "",
+      "// COMPONENTS",
+      "import {  } from '@headlessui/react'",
+      "",
+      "// TYPES",
+      "",
+      "export function ${1:${TM_FILENAME_BASE}}() {",
+      "  return (",
+      "    <div>Hello World</div>",
+      "  )",
+      "}",
+      ""
+    ],
+    "description": "Create a Component to use in NLW return"
+  }
+}
